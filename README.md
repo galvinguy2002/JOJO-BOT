@@ -2,7 +2,7 @@
 A discord bot to recommend other discord bots according to your needs
 # ABOUT
 A Discord bot for other bots!
-Insane right??
+Insane right ???
 Discord bots are AI-driven tools that can help you automate tasks on your Discord server. They make it a lot easier to build a community that is truly engaged and can be used to moderate your server, welcome new members, or even ban people who are creating a bad environment for everyone else.
 Hence this bot serves as a master bot to suggest all other bots.
 # OUTPUT
