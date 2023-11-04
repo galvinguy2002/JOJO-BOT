@@ -1,5 +1,5 @@
 # Discord-Bot-for-Discord-Bots
-A discord bot to recommend other discord bots according to your needs.
+A discord bot to recommend other discord bots according to your needs
 # ABOUT
 A Discord bot for other bots!
 Insane right??
