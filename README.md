@@ -1,5 +1,6 @@
 # Discord-Bot-for-Discord-Bots
 A discord bot to recommend other discord bots according to your needs
+<br>
 ![image](https://github.com/galvinguy2002/JOJO-BOT/assets/119154626/d96771e9-be1d-41d6-9902-84625d034ba5)
 
 # ABOUT
